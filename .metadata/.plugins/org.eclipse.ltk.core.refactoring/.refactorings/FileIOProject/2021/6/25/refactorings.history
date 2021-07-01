@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rk.demo.Dpeartment&apos; to &apos;Department&apos;&#x0D;&#x0A;- Original project: &apos;FileIOProject&apos;&#x0D;&#x0A;- Original element: &apos;com.rk.demo.Dpeartment&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rk.demo.Department&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Dpeartment&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.rk.demo{Dpeartment.java[Dpeartment" matchStrategy="1" name="Department" qualified="false" references="true" similarDeclarations="false" stamp="1623835879548" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+package com.rk.streamdemo;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class DishCollector {
+	public List<Dish> collectVegetarianDish(List<Dish> list){
+		List<Dish> collect = list.stream().filter(vegetarian -> vegetarian).collect(Collectors.toList());
+		return collect;
+	}
+}

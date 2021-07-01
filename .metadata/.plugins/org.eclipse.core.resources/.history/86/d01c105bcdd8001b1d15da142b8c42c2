@@ -1,0 +1,38 @@
+package com.rk.demo;
+
+import java.util.*;
+
+class Solution {
+
+	static void checkBalance(String s) {
+		char[] arr = s.toCharArray();
+		Stack<Character> stack = new Stack<Character>();
+		for (int i = 0; arr != null && i < arr.length; i++) {
+			if (arr[i] == '{' || arr[i] == '[' || arr[i] == '(')
+				stack.push(arr[i]);
+			else {
+				if (stack.peek() == '(' && arr[i] == ')')
+					top--;
+				else if (stack.peek() == '[' && arr[i] == ']')
+					top--;
+				else if (stack.peek() == '{' && arr[i] == '}')
+					top--;
+			}
+		}
+		if (stack.isEmpty()) {
+			System.out.println("Balanced");
+		} else
+			System.out.println("Unbalanced");
+	}
+
+	public static void main(String[] argh) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("BALANCE CHECK!");
+		while (sc.hasNext()) {
+			String input = sc.next();
+			checkBalance(input);
+		}
+		sc.close();
+
+	}
+}

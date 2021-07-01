@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1622445004245_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1622445004266_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1625117492437_4" label="Workspace1" name="Workspace1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Library Management System 2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/StreamProject" type="4"/>
+<item elementID="=Demo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LIbraryManagementSystem" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PowerProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TreeProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Algorithms" type="4"/>
+<item elementID="=Test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HackerrankPractice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyEmployeeManagementSystemLayeredProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MetroManagement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CircularNumber" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EnumDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FileIOProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ThreadDemo" type="4"/>
+<item elementID="=Library Management System" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Popcorn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LinkedListProject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Wiley_Introduction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Exercise 1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Exercise 3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Exercise 5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyWorkspace" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1622445028340_2" label="Window Working Set" name="Aggregate for window 1622445028340"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1624877340672_3" label="Window Working Set" name="Aggregate for window 1624877340672"/>
+<mruList name="Workspace1"/>
+</workingSetManager>

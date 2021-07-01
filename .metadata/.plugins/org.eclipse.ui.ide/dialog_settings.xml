@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\MetroManagement"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\Day 4\Exercise 1"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\Day 4\Exercise 3"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\Day 4\Exercise 5"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\Day 4\ThreadData"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\LIbraryManagementSystem"/>
+			<item value="C:\Users\risha\Downloads\Compressed\WileyMThreeC112-main\WileyMThreeC112-main\Day3\MyEmployeeManagementSystemLayeredProject"/>
+			<item value="C:\Users\risha\eclipse-workspace\Wiley_Introduction"/>
+			<item value="C:\Users\risha\Desktop\Wiley-Cohort 112\Practice\31052021\PowerProject\src"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="576"/>
+		<item key="DIALOG_Y_ORIGIN" value="234"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="576"/>
+		<item key="DIALOG_Y_ORIGIN" value="67"/>
+		<item key="DIALOG_WIDTH" value="788"/>
+		<item key="DIALOG_HEIGHT" value="682"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.134328|0|WINDOWS|1|-17|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

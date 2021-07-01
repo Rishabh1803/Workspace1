@@ -1,0 +1,14 @@
+package com.rk.demo;
+class A{
+	public static void m1() {
+		System.out.println("A");
+	}
+}
+class B extends A{
+	public static void m1() {
+		System.out.println("A");
+	}
+}
+public class Interview {
+
+}

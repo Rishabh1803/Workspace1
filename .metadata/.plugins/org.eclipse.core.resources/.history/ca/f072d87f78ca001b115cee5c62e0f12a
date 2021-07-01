@@ -1,0 +1,10 @@
+package com.rk.streamdemo;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class DishCollector {
+	public void collectVegetarianDish(List<Dish> list){
+		List<Dish> collect = list.stream().filter(DishCheck -> DishCheck.isVegetarian()).forEach(System.out::println);
+	}
+}
